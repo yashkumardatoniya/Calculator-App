@@ -19,6 +19,13 @@ body {
   align-items: center;
   justify-content: center;
 }
+.container {
+  text-align: center;
+}
+
+h1 {
+  color: #2a06f9;
+}
 
 .claculator {
   background: linear-gradient(to bottom right, #bae0f7, #96d4f5);
